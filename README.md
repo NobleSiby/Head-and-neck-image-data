@@ -17,8 +17,11 @@ Objectives
 ●	To compare the testing accuracies of the different models.
 
 Research Questions
+
 ●	Which are the existing methods that are used for predicting HNSCCs in the early stage?
+
 ●	Are algorithms such as random forest, Convolutional neural networks providing good and speed accuracy?
+
 ●	Which feature or what impacts more on the prediction of recurrence of HNSCCs?
 
 Introduction
