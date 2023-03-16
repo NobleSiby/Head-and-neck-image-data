@@ -6,6 +6,7 @@ Aim:
 To identify subjects who are at the risk of recurrence of head and neck squamous cell carcinomas (HNSCCs) after going through the treatment using machine learning algorithms and predict the accuracy of the models.
 
 Objectives
+
 ●	To analyze and understand the data using machine learning algorithms.
 
 ●	To perform the data pre-processing techniques.
