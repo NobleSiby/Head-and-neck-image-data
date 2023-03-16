@@ -1,5 +1,7 @@
 # Head-and-neck-image-data
 
+Dataset: https://wiki.cancerimagingarchive.net/plugins/servlet/mobile?contentId=11829589#content/view/11829589
+
 Aim:
 To identify subjects who are at the risk of recurrence of head and neck squamous cell carcinomas (HNSCCs) after going through the treatment using machine learning algorithms and predict the accuracy of the models.
 
@@ -9,6 +11,7 @@ Objectives
 ●	To understand and detect HNSCCs using machine learning techniques.
 ●	To implement techniques such as Convolutional Neural Networks, Random Forest algorithm, and others, and to predict whether the subject is at the risk of recurrence of HNSCCs or not.
 ●	To compare the testing accuracies of the different models.
+
 Research Questions
 ●	Which are the existing methods that are used for predicting HNSCCs in the early stage?
 ●	Are algorithms such as random forest, Convolutional neural networks providing good and speed accuracy?
