@@ -7,9 +7,13 @@ To identify subjects who are at the risk of recurrence of head and neck squamous
 
 Objectives
 ●	To analyze and understand the data using machine learning algorithms.
+
 ●	To perform the data pre-processing techniques.
+
 ●	To understand and detect HNSCCs using machine learning techniques.
+
 ●	To implement techniques such as Convolutional Neural Networks, Random Forest algorithm, and others, and to predict whether the subject is at the risk of recurrence of HNSCCs or not.
+
 ●	To compare the testing accuracies of the different models.
 
 Research Questions
